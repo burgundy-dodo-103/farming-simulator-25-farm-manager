@@ -1,0 +1,22 @@
+{
+  "name": "farming-simulator-25-farm-manager",
+  "displayName": "Farming Simulator 25 Farm Manager",
+  "programType": "farm-manager",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Vehicle categories",
+    "Project notes",
+    "Session planning"
+  ],
+  "topics": [
+    "farming-simulator-25-farm-manager",
+    "farming-simulator-25-tools",
+    "farming-simulator-25-menu",
+    "farming-simulator-25-settings",
+    "farming-simulator-25-configs",
+    "farming-simulator-25-vehicle-categories",
+    "farming-simulator-25-project-notes"
+  ]
+}
